@@ -2,7 +2,7 @@
 
 Hybrid Power Supply with LPC1114 and LT3081.<br>
 LT8364 SEPIC and LT3081 LDO hybrid style. So that you can get low noise and high efficiency PSU.<br>
-PCB is available from https://ghz-ws.booth.pm/items/4923296
+Related book (Japanese) is available from https://ghz-ws.booth.pm/items/5934699 <br>
 ![IMG_5480](https://github.com/ghz-ws/LPC1114-Hybrid-PSU/assets/52226620/e2ff1280-25dc-4224-8ca8-42ac0ab7ee19)
 ![IMG_5646](https://github.com/ghz-ws/LPC1114-Hybrid-PSU/assets/52226620/84bd72ce-5ed1-4131-b14d-23c5ac837319)
 ![IMG_5649](https://github.com/ghz-ws/LPC1114-Hybrid-PSU/assets/52226620/c50b0ac9-87f6-4a68-a62e-58ab11b86f44)
